@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack developer from India , Kolkata. I Am a sophomore studying at Techno Main Salt Lake</h3>
 
 - 🔭 I’m currently working on [Campus-Connect](https://campusconnect-wrgc.onrender.com/home/)
-- 🏆 Aminnovate'24 Hackathon Winner.
+- 🏆 **Aminnovate'24** Hackathon Winner.
 
-- 🏆 TMSL Inter-Departmental Hackathon Winner.
+- 🏆 **TMSL Inter-Departmental Hackathon** Winner.
   
 - 🌱 I’m currently learning **ExpressJs and ReactJs**
 
