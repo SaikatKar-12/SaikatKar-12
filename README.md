@@ -2,14 +2,29 @@
 <h3 align="center">A passionate Full Stack developer from India , Kolkata. I Am a sophomore studying at Techno Main Salt Lake</h3>
 
 - 🔭 I’m currently working on [Campus-Connect](https://campusconnect-wrgc.onrender.com/home/)
+- 🏆 Aminnovate'24 Hackathon Winner.
 
+- 🏆 TMSL Inter-Departmental Hackathon Winner.
+  
 - 🌱 I’m currently learning **ExpressJs and ReactJs**
 
 - 📫 How to reach me **ksaikat009@gmail.com**
 
-- 🏆 Aminnovate'24 Hackathon Winner
-- 🏆 TMSL Inter-Departmental Hackathon Winner
-
+<h3 align="left">Projects:</h3>
+<p align="left">
+    <ul>
+        <li><a href="https://campusconnect-wrgc.onrender.com/home/" target="_blank">Campus-Connect</a> - A platform to manage campus events and club activities.</li>
+        <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - A online market place to sell and buy items.</li>
+        <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
+        <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using websockets.</li>
+        <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using Json web token.</li>
+        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flights and airplane searching api.</li>
+        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend.</li>
+        <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in first year.</li>
+        
+       
+   
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saikat-kar-06378224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saikat-kar-06378224a/" height="30" width="40" /></a>
