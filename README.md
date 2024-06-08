@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikat Kar</h1>
 <h3 align="center">A passionate Full Stack developer from India , Kolkata. I Am a sophomore studying at Techno Main Salt Lake</h3>
 
-- 🔭 I’m currently working on [Campus-Connect](https://campusconnect-wrgc.onrender.com/home/)
+- 🔭 I’m currently working on [Campus-Connect](https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main)
 - 🏆 **Aminnovate'24** Hackathon Winner.
 
 - 🏆 **TMSL Inter-Departmental Hackathon** Winner.
