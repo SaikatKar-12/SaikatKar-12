@@ -19,7 +19,7 @@
         <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
         <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using websockets.</li>
         <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using Json web token.</li>
-        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend.</li>
+        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend that can be integrated with any website to create automatic emailing service.</li>
         <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in first year.</li>
         
        
