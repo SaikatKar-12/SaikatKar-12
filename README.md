@@ -14,11 +14,11 @@
 <p align="left">
     <ul>
         <li><a href="https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main" target="_blank">Campus-Connect</a> - A platform to manage campus events and club activities.</li>
+        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flights and airplane searching api.</li>
         <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - A online market place to sell and buy items.</li>
         <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
         <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using websockets.</li>
         <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using Json web token.</li>
-        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flights and airplane searching api.</li>
         <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend.</li>
         <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in first year.</li>
         
