@@ -13,7 +13,7 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
     <ul>
-        <li><a href="https://campusconnect-wrgc.onrender.com/home/" target="_blank">Campus-Connect</a> - A platform to manage campus events and club activities.</li>
+        <li><a href="https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main" target="_blank">Campus-Connect</a> - A platform to manage campus events and club activities.</li>
         <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - A online market place to sell and buy items.</li>
         <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
         <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using websockets.</li>
