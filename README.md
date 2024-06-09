@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Campus-Connect](https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main)
 - 🏆 **Aminnovate'24** Hackathon Winner.
 
-- 🏆 **TMSL Inter-Departmental Hackathon** Winner.
+- 🏆 **InspiriT'24 TMSL** Hackathon Winner.
   
 - 🌱 I’m currently learning **ExpressJs and ReactJs**
 
