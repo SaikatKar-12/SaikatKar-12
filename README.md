@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Kar</h1>
-<h3 align="center">A passionate Full Stack developer from India . I Am a sophomore studying at Techno Main Salt Lake</h3>
+<h3 align="center">A passionate Full Stack developer from India . I am a sophomore studying at Techno Main Salt Lake</h3>
 
 - 🔭 I’m currently working on [Campus-Connect](https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main)
 - 🏆 **Aminnovate'24** Hackathon Winner.
