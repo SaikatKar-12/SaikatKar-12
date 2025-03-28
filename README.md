@@ -12,20 +12,18 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
     <ul>
-        
-        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flights and airplane searching api.</li>
-        <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - A online market place to sell and buy items.</li>
+        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flight and airplane searching API.</li>
+        <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - An online marketplace to sell and buy items.</li>
         <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
-        <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using websockets.</li>
-        <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using Json web token.</li>
-        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend that can be integrated with any website to create automatic emailing service.</li>
-        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/games" target="_blank">JS Games</a> - Created Whack-A-Mole,Breakout,Memory game and Frogger game using Javascript.</li>
-        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/telegram_bot" target="_blank">Telegram Bot</a> - Code for creating a Telegram bot that will answer coding questions.</li>
-        <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in first year.</li>
-        
-       
-   
+        <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using WebSockets.</li>
+        <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using JSON Web Token.</li>
+        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend that can be integrated with any website for automatic email notifications.</li>
+        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/games" target="_blank">JS Games</a> - Whack-A-Mole, Breakout, Memory Game, and Frogger Game using JavaScript.</li>
+        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/telegram_bot" target="_blank">Telegram Bot</a> - A Telegram bot that answers coding questions.</li>
+        <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in my first year.</li>
+    </ul>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saikat-kar-06378224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saikat-kar-06378224a/" height="30" width="40" /></a>
