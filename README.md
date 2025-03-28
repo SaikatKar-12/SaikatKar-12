@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saikat Kar</h1>
 <h3 align="center">A passionate Full Stack developer from India . I am a sophomore studying at Techno Main Salt Lake</h3>
 
-- 🔭 I’m currently working on [Campus-Connect](https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main)
 - 🏆 **Aminnovate'24** Hackathon Winner.
 
 - 🏆 **InspiriT'24 TMSL** Hackathon Winner.
@@ -13,7 +12,7 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
     <ul>
-        <li><a href="https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main" target="_blank">Campus-Connect</a> - A platform to manage campus events and club activities.</li>
+        
         <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flights and airplane searching api.</li>
         <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - A online market place to sell and buy items.</li>
         <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
