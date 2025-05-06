@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Kar</h1>
-<h3 align="center">A passionate Full Stack developer from India . I am a sophomore studying at Techno Main Salt Lake</h3>
+<h3 align="center">A passionate Full Stack developer from India . I am a pre-final year student studying at Techno Main Salt Lake</h3>
 
 - 🏆 **Aminnovate'24** Hackathon Winner.
 
@@ -9,20 +9,35 @@
 
 - 📫 How to reach me **ksaikat009@gmail.com**
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-    <ul>
-        <li><a href="https://github.com/SaikatKar-12/FlightAndSearch" target="_blank">FlightAndSearch</a> - Flight and airplane searching API.</li>
-        <li><a href="https://github.com/SaikatKar-12/ShopiT_online" target="_blank">ShopIt</a> - An online marketplace to sell and buy items.</li>
-        <li><a href="https://github.com/SaikatKar-12/face_recognition" target="_blank">Face-Recog</a> - A face detection attendance system.</li>
-        <li><a href="https://github.com/SaikatKar-12/chat_service" target="_blank">Chat System</a> - A chatting system made using WebSockets.</li>
-        <li><a href="https://github.com/SaikatKar-12/Auth_Service_CC" target="_blank">Auth Service</a> - Authentication service backend using JSON Web Token.</li>
-        <li><a href="https://github.com/SaikatKar-12/EmailService" target="_blank">Email Service</a> - Email service backend that can be integrated with any website for automatic email notifications.</li>
-        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/games" target="_blank">JS Games</a> - Whack-A-Mole, Breakout, Memory Game, and Frogger Game using JavaScript.</li>
-        <li><a href="https://github.com/SaikatKar-12/Learning_webdev/tree/main/telegram_bot" target="_blank">Telegram Bot</a> - A Telegram bot that answers coding questions.</li>
-        <li><a href="https://github.com/SaikatKar-12/Weather_Detecter" target="_blank">Weather Detector</a> - A simple weather detector I made in my first year.</li>
-    </ul>
-</p>
+## 🚀 Projects
+
+### 🚖 [Uber Clone](https://github.com/SaikatKar-12/Uber_clone)
+A full-stack ride-sharing platform with:
+- Real-time ride booking with driver/passenger matching
+- Live location tracking using Google Maps API & WebSocket
+- Secure authentication and payment integration
+- Fare estimation & dynamic pricing based on distance and demand
+- Built using **ReactJS**, **NodeJS**, **ExpressJS**, **MySQL**
+
+---
+
+### 🎓 [Saarthi – Mentor Matching Platform](https://github.com/SaikatKar-12/Saarthi)
+A smart mentorship platform designed to connect mentors and mentees:
+- Automated mentor recommendations with Calendly-based scheduling
+- WebRTC-powered video calls and real-time chat
+- AI-generated session summaries
+- Secure, role-based authentication
+- Microservices architecture for modular development
+
+---
+
+### 🏫 [CampusConnect – College Club Management](https://github.com/SaikatKar-12/CampusConnect_frontend/tree/main)
+A platform to streamline college club and event activities:
+- APIs for managing clubs, venues, and events
+- Role-based access control for admins and members
+- Real-time chat for event communication
+- Built using microservices for scalability and maintainability
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
